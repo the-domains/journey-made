@@ -1,0 +1,14 @@
+layout_spectrum: 0.5934488
+color:
+  saturation: 0.4413425
+  lightness: 0.04348806
+  brandStrength: 0.7956989
+  brandColors:
+    - '#8893BD'
+    - '#424C77'
+    - '#010328'
+    - '#7E4C02'
+    - '#3B2730'
+  rhythmicContrast: 0.07974643
+typography_spectrum: 0.8010753
+name: Journey Made
